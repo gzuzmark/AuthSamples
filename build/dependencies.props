@@ -7,8 +7,10 @@
     <MicrosoftAspNetCoreAuthenticationCookiesPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthenticationCookiesPackageVersion>
     <MicrosoftAspNetCoreAuthenticationFacebookPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthenticationFacebookPackageVersion>
     <MicrosoftAspNetCoreAuthenticationGooglePackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthenticationGooglePackageVersion>
+    <MicrosoftAspNetCoreAuthenticationMicrosoftAccountPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthenticationMicrosoftAccountPackageVersion>
     <MicrosoftAspNetCoreAuthenticationOpenIdConnectPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthenticationOpenIdConnectPackageVersion>
     <MicrosoftAspNetCoreAuthenticationTwitterPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthenticationTwitterPackageVersion>
+    <MicrosoftAspNetCoreAuthenticationWsFederationPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthenticationWsFederationPackageVersion>
     <MicrosoftAspNetCoreAuthorizationPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreAuthorizationPackageVersion>
     <MicrosoftAspNetCoreCryptographyKeyDerivationPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreCryptographyKeyDerivationPackageVersion>
     <MicrosoftAspNetCoreDataProtectionExtensionsPackageVersion>2.2.0-preview1-34066</MicrosoftAspNetCoreDataProtectionExtensionsPackageVersion>
